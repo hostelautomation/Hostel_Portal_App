@@ -54,3 +54,77 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+
+58068876faabc642df36a0fe3e9eee2eb82fffc7a23346fcfb24909a92741c62d205ede35528b5b6346d66f1a8b3a65c396916ffc6b972c444ccd10b3e12a1bd
+
+Dir Tree:
+
+src/
+│
+├── app/
+│   ├── navigation/
+│   ├── providers/
+│   ├── store/
+│   ├── hooks/
+│   └── theme/
+│
+├── features/
+│
+│   ├── auth/
+│   │   ├── screens/
+│   │   ├── components/
+│   │   ├── services/
+│   │   └── hooks/
+│
+│   ├── home/
+│   │   ├── screens/
+│   │   ├── components/
+│   │   ├── hooks/
+│   │   └── services/
+│
+│   ├── passes/
+│   │   ├── screens/
+│   │   ├── components/
+│   │   └── services/
+│
+│   ├── inbox/
+│   │   ├── screens/
+│   │   ├── components/
+│   │   └── services/
+│
+│   ├── profile/
+│   │   ├── screens/
+│   │   ├── components/
+│   │   └── services/
+│
+│   ├── leave/
+│   ├── complaints/
+│   ├── mess/
+│   ├── accommodation/
+│   ├── attendance/
+│   ├── announcements/
+│   └── students/
+│
+├── shared/
+│
+│   ├── components/
+│   │   ├── cards/
+│   │   ├── buttons/
+│   │   ├── forms/
+│   │   ├── inputs/
+│   │   └── modals/
+│
+│   ├── utils/
+│   ├── constants/
+│   ├── types/
+│   └── services/
+│
+├── assets/
+│
+├── api/
+│   ├── axios.ts
+│   ├── endpoints.ts
+│   └── auth.ts
+│
+└── App.tsx
